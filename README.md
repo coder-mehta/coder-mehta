@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @coder-mehta
-- 👀 I’m interested in Python,Arduino,Javascript and CSS
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Python and Arduino
+- Hi, I’m @coder-mehta
+- Interested in Python,Arduino,Javascript and CSS
+- Currently learning Java
+- Looking to collaborate on Python and Arduino
 - 📫 How to reach me : 📧 email
 
 <!---
